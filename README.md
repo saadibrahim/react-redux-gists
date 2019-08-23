@@ -22,7 +22,7 @@ To run the app you need yarn package manager. Once you have yarn installed, clon
 
 #### Demo here:
 
-[https://saadibrahim.com/react-redux-gists/](https://saadibrahim.com/react-redux-gists/)
+[https://saadibrah.im/react-redux-gists/](https://saadibrah.im/react-redux-gists/)
 
 #### Screenshots:
 
